@@ -1,0 +1,6 @@
+To run backend, first install all the python packages specified in file requirements.txt
+and then run command "python3 manage.py runserver" in main/main folder
+
+
+To run frontend, run "npm i" command in frontend folder.
+and then run "npm start" command to run frontend.
